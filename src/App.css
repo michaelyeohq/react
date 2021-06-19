@@ -16,11 +16,6 @@
   flex-direction: row;
 }
 
-.childthree {
-  background-color: burlywood;
-  flex-grow: 1;
-}
-
 .childfour {
   background-color: bisque;
   flex-grow: 1;
